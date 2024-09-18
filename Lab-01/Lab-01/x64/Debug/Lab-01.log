@@ -1,0 +1,3 @@
+﻿  Lab1.cpp
+C:\Users\gameuser\Desktop\Web dev\Lab-01\functions.h(25,1): warning C4715: 'isLeapYear': not all control paths return a value
+  Lab-01.vcxproj -> C:\Users\gameuser\Desktop\Web dev\Lab-01\x64\Debug\Lab-01.exe
